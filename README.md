@@ -102,6 +102,4 @@ The developed model helps businesses:
 - Increase conversion rates
 - Support data-driven decision making
 
----
 
-## Repository Structure
